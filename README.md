@@ -12,7 +12,7 @@ This project focuses on building a simple interaction system that connects user 
 ## Features
 
 - AI-powered text generation
-- 
+
 - Interactive user input and response
   
 - Fast and simple implementation
