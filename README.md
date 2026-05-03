@@ -14,13 +14,13 @@ This project focuses on building a simple interaction system that connects user 
 - AI-powered text generation
 - 
 - Interactive user input and response
-- 
+  
 - Fast and simple implementation
-- 
+  
 - Natural language understanding
-- 
+  
 - Secure API key handling using environment variables
-- 
+  
 - Minimal and beginner-friendly codebase
 
 ## Tech Stack
